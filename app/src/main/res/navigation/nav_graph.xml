@@ -15,6 +15,7 @@
                 app:destination="@id/bottomSheetFragment" />
     </fragment>
     <dialog
+
             android:id="@+id/bottomSheetFragment"
             android:name="com.demo.bottomsheetfullscreen.BottomSheetFragment"
             android:label="fragment_bottom_sheet"
